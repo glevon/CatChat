@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CatChat/static/css/main.f2477287.chunk.css",
+    "main.js": "/CatChat/static/js/main.8482c830.chunk.js",
+    "main.js.map": "/CatChat/static/js/main.8482c830.chunk.js.map",
+    "runtime-main.js": "/CatChat/static/js/runtime-main.ceea988f.js",
+    "runtime-main.js.map": "/CatChat/static/js/runtime-main.ceea988f.js.map",
+    "static/js/2.c0e31bec.chunk.js": "/CatChat/static/js/2.c0e31bec.chunk.js",
+    "static/js/2.c0e31bec.chunk.js.map": "/CatChat/static/js/2.c0e31bec.chunk.js.map",
+    "index.html": "/CatChat/index.html",
+    "precache-manifest.c3b7f2d14bc7b11dd4e5969d811b481e.js": "/CatChat/precache-manifest.c3b7f2d14bc7b11dd4e5969d811b481e.js",
+    "service-worker.js": "/CatChat/service-worker.js",
+    "static/css/main.f2477287.chunk.css.map": "/CatChat/static/css/main.f2477287.chunk.css.map",
+    "static/js/2.c0e31bec.chunk.js.LICENSE.txt": "/CatChat/static/js/2.c0e31bec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ceea988f.js",
+    "static/js/2.c0e31bec.chunk.js",
+    "static/css/main.f2477287.chunk.css",
+    "static/js/main.8482c830.chunk.js"
+  ]
+}
