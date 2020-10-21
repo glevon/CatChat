@@ -35,7 +35,6 @@ class Profile extends Component {
       openChat:false,
       chatFrData:{},
       messages:[],
-      
     }
   }
 
@@ -242,7 +241,7 @@ changePassword(){
       this.setState({})
     })
   }
-  addLike(postId,e) {
+  addLike(postId) {
     UserService.addLike(postId).then((r)=>{
       this.state.posts.map((a)=>{
           if (a.id===postId) {
@@ -253,7 +252,7 @@ changePassword(){
         this.setState({})
       })
     }
-  delLike(postId,e) {
+  delLike(postId) {
     UserService.delLike(postId).then((r)=>{
       this.state.posts.map((a)=>{
         if (a.id===postId) {

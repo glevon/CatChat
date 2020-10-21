@@ -10,7 +10,7 @@ class App extends Component {
   render() {
     return (
       <BrowserRouter>
-        <Route path="/" exact component={Signup} />
+        <Route path="/" exact component={Signin} />
         <Route path="/signin" component={Signin} />
         <Route path="/profile" exact component={Profile} />
         <Route path="/profile/edit" component={ManageAccount} />

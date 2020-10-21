@@ -221,7 +221,7 @@ body
   right: 9%;
   border-radius: 10px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, .5);
-  z-index:"2"
+  z-index:2;
 }
 
 .image-upload>input {
@@ -309,6 +309,7 @@ body
 
 }
 .search-status{
+  font-size: 1.3vw;
   margin-left: 5px;
   color: rgb(129, 128, 128);
 
